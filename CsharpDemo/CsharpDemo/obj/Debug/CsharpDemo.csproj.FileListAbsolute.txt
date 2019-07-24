@@ -1,0 +1,7 @@
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\bin\Debug\CsharpDemo.exe.config
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\bin\Debug\CsharpDemo.exe
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\bin\Debug\CsharpDemo.pdb
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\obj\Debug\CsharpDemo.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\obj\Debug\CsharpDemo.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\obj\Debug\CsharpDemo.exe
+C:\Users\Dell\Documents\dotnet\CsharpDemo\CsharpDemo\obj\Debug\CsharpDemo.pdb
